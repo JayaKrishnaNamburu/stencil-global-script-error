@@ -1,0 +1,57 @@
+.form {
+  margin: 20px;
+  font-size: 18px;
+}
+.name-group {
+  margin-bottom: 10px;
+}
+.label {
+  width: 100px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.textinput {
+  padding: 5px;
+  font-size: 16px;
+}
+.email-group {
+  margin-bottom: 10px;
+}
+.label1 {
+  width: 100px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.textinput1 {
+  padding: 5px;
+  font-size: 16px;
+}
+.message-group {
+  margin-bottom: 10px;
+}
+.message-label {
+  width: 100px;
+  display: inline-block;
+  margin-top: 5px;
+  vertical-align: top;
+}
+.textarea {
+  padding: 5px;
+  font-size: 16px;
+  border-color: #ccc;
+}
+.button {
+  color: green;
+  border: 1px solid grey;
+  cursor: pointer;
+  padding: 5px 10px;
+  font-size: 18px;
+  transition: all .35s ease-out;
+  margin-left: 100px;
+  border-radius: 3px;
+  background-color: white;
+}
+.button:hover {
+  color: white;
+  background-color: green;
+}

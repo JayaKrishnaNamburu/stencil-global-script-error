@@ -1,0 +1,37 @@
+.main {
+  width: 960px;
+  text-align: center;
+}
+.heading1 {
+  margin: 30px auto;
+}
+.textblock {
+  color: #6a8bad;
+  margin: 30px auto;
+  font-size: 26px;
+  max-width: 560px;
+  text-align: center;
+}
+.link {
+  color: white;
+  margin: auto;
+  padding: 12px 24px;
+  border-radius: 4px;
+  text-decoration: none;
+  background-color: #822cec;
+}
+.columns {
+  display: flex;
+  margin-top: 50px;
+  border-top: 1px solid #ccc;
+  justify-content: space-between;
+}
+.container1 {
+  max-width: 30%;
+}
+.container2 {
+  max-width: 30%;
+}
+.container3 {
+  max-width: 30%;
+}
